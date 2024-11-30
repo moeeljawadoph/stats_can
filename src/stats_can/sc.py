@@ -612,7 +612,7 @@ def table_to_df(table, path=None, h5file="stats_can.h5"):
     return df
 
 
-||||||| parent of 7a518ce (remove hdfs)
+#### parent of 7a518ce (remove hdfs)
 def tables_to_h5(tables, h5file="stats_can.h5", path=None):
     """Take a table and its metadata and put it in an hdf5 file.
 
